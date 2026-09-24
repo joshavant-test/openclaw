@@ -329,3 +329,5 @@ clawtributors:hidden:end -->
 ## License
 
 [MIT](LICENSE) © OpenClaw Foundation. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for incorporated or adapted code.
+
+<!-- Disposable Security Review cleanup fallback demo after PR #157008. Do not merge. -->
